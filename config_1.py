@@ -7,4 +7,5 @@ I can do:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~|
 say /hello
 My /skills
+choose /random_number
 """
